@@ -217,7 +217,8 @@ We presented a **baseline YOLOv8n** detector on the Kaggle face-mask dataset and
 | Jupyter notebook | Full pipeline: data prep, training, `val()`, comparison tables, optional qualitative plots. |
 | `coco_val_comparison.csv` | Machine-readable summary of all runs (same metrics as Section 6). |
 | This report | Strategy description and interpretation of results. |
-|zipped archive of the training `runs/` directory | (Ultralytics outputs: per-experiment folders with `weights/best.pt`, `results.csv`, plots, etc.). Use it to reproduce or inspect checkpoints and training logs alongside the notebook and report.
+|Training outputs and models (external link: https://drive.google.com/drive/folders/1z_BoKlU4UkDXp3y3gptdJhHvw5pVwOYa?usp=drive_link ) | Training runs/ outputs, model weights (`best.pt` per experiment), and related files (e.g. `results.csv`, plots, logs) are not copied into this upload because of size. They live in a shared cloud folder instead.
+
 
 ---
 
